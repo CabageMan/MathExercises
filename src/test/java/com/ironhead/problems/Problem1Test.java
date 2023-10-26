@@ -21,5 +21,3 @@ class Problem1Test {
     assertEquals(23, result);
   }
 }
-
-git@github.com:CabageMan/MathExercises.git
